@@ -1,1 +1,1 @@
-# data100
+# Principles of Data Science
