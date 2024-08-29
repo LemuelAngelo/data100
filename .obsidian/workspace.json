@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "e19b1d729487a46b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T1AY2425/Week 2/Exploratory Data Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4209fb400a65b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T1AY2425/Week 2/Time Series Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be49bffcba161d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "596d328c4af40b96",
             "type": "leaf",
             "state": {
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,10 +221,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1c580c7ac0b93316",
+  "active": "be49bffcba161d2e",
   "lastOpenFiles": [
-    "T1AY2425/Week 1/Python Basics.md",
+    "T1AY2425/Week 2/Geospatial Data Science (Part I).md",
+    "T1AY2425/Week 2/Time Series Analysis.md",
+    "T1AY2425/Week 2/Exploratory Data Analysis.md",
     "T1AY2425/Homepage - T1 AY2425.md",
+    "T1AY2425/Week 2/Data Visualization.md",
+    "T1AY2425/Week 1/Python Basics.md",
     "T1AY2425/Week 1/Introduction to Data Science.md",
     "T1AY2425/Week 1/Python for Data Science.md",
     "T1AY2425/Week 1/Introduction to Python.md",
