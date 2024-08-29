@@ -1,2 +1,2 @@
-# DATA100: Principles of Data Science
+# Principles of Data Science
 - Lectures by Jazzie R. Jao, MSc | jazzie.jao@dlsu.edu.ph
