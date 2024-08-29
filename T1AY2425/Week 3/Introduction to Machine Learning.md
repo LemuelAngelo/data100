@@ -35,9 +35,9 @@ Arthur Samuel, an early American leader in the field of computer gaming and arti
     - Performance measure P: Percent of games won against opponent
     - Training experience E: Playing practice games against itself
 
-![500](images/Screenshot%202024-08-28%20at%205.59.14%20PM.png)
+![AltText|500](images/Screenshot%202024-08-28%20at%205.59.14%20PM.png)
 
-![500](images/Screenshot%202024-08-28%20at%206.01.06%20PM.png | 500)
+![AltText|500](images/Screenshot%202024-08-28%20at%206.01.06%20PM.png)
 
 
 # General Steps Involved
