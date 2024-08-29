@@ -58,4 +58,6 @@ Note: you might find that this section is kind of similar to EDA.
 The dataset given below is of table format, a structured data. In reality, unstructured data also exist which creates more complex analysis. For the sake of explaining the concept, we will start with a simple case of structured dataset like a table. Read this resource for more discussion on different types of data that you might encounter.
 
 A data set is a collection of related information or records. For example we may have a data set on students in which each record consists of information about a specific student.
-
+![](images/Screenshot%202024-08-28%20at%204.38.06%20PM.png)
+We can have a data set on student performance which has records providing performance, i.e. marks on the individual subjects:
+![](images/Screenshot%202024-08-28%20at%204.55.36%20PM.png)
