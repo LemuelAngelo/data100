@@ -61,3 +61,42 @@ A data set is a collection of related information or records. For example we may
 ![](images/Screenshot%202024-08-28%20at%204.38.06%20PM.png)
 We can have a data set on student performance which has records providing performance, i.e. marks on the individual subjects:
 ![](images/Screenshot%202024-08-28%20at%204.55.36%20PM.png)
+### Understanding Data Types
+
+Broadly categorized into two: quantitative and qualitative.
+
+1. Qualitative (also called categorical data)
+    
+    1. Nominal Data: No numeric value, but a named value. Used for assigning named values to attributes. Nominal values cannot be quantified. Examples:
+        
+        - Blood group: A, B, O, AB, etc.
+        - Nationality: Indian, American, British, etc.
+        - Gender: Male, Female, Other
+        
+        A special case of nominal data is when only two labels are possible, e.g. pass/fail as a result of an examination. This sub-type of nominal data is called ‘dichotomous’.
+        
+        It is obvious, mathematical operations such as addition, subtraction, multiplication, etc. cannot be performed on nominal data. For that reason, statistical functions such as mean, variance, etc. can also not be applied on nominal data. However, a basic count is possible. So mode, i.e. most frequently occurring value, can be identified for nominal data.
+        
+    2. Ordinal Data: Categorical data with a meaningful order or ranking. Examples:
+        
+        - Education level: High School, Bachelor's, Master's, PhD
+        - Customer satisfaction: Very Unsatisfied, Unsatisfied, Neutral, Satisfied, Very Satisfied
+        - T-shirt sizes: Small, Medium, Large, X-Large
+        
+        Like nominal data, basic counting is possible for ordinal data. Hence, the mode can be identified. Since ordering is possible in case of ordinal data, median, and quartiles can be identified in addition. Mean can still not be calculated.
+        
+2. Quantitative Data
+    
+    1. Interval Data: Numeric data with known order and equal intervals between values, but no true zero point.
+        - Examples: Temperature (°C, °F), Calendar dates, IQ scores
+        - Properties:
+            - Allows addition and subtraction
+            - Measures of central tendency: mean, median, mode
+            - Standard deviation can be calculated
+            - No true zero point, so ratios are meaningless
+    2. Ratio Data: represents numeric data for which exact value can be measured. Absolute zero is available for ratio data. Also, these variables can be added, subtracted, multiplied, or divided. The central tendency can be measured by mean, median, or mode and methods of dispersion such as standard deviation.
+        - Examples: Height, Weight, Age, Income
+        - Properties:
+            - Allows all arithmetic operations, including multiplication and division
+            - Has a true zero point
+            - Ratios are meaningful (e.g., twice as tall, half as old)
