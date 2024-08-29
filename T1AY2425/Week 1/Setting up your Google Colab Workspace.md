@@ -1,6 +1,5 @@
-
+# Setting up your Google Colab Workspace
 > Lectures by Jazzie R. Jao, MSc | jazzie.jao@dlsu.edu.ph> 
-
 # Setup
 
 - Go to [https://colab.research.google.com/](https://colab.research.google.com/).

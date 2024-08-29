@@ -4,58 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0add7f6b178f3275",
-        "type": "split",
+        "id": "d7e8c018fb3b5c7e",
+        "type": "tabs",
         "children": [
           {
-            "id": "d7e8c018fb3b5c7e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1c580c7ac0b93316",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "T1AY2425/Homepage - T1 AY2425.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "596d328c4af40b96",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "T1AY2425/Week 1/Setting up your Google Colab Workspace.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "1c580c7ac0b93316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "4ee8af843204a7dc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b3c30f0f6170d2c7",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "T1AY2425/Week 1/images/Screenshot_2024-08-27_at_7.46.48_PM.png"
-                  }
-                }
+            "id": "596d328c4af40b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 260.5
   },
   "right": {
     "id": "73801b465d51c16d",
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T1AY2425/Week 1/Setting up your Google Colab Workspace.md",
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "T1AY2425/Week 1/Setting up your Google Colab Workspace.md",
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T1AY2425/Week 1/Setting up your Google Colab Workspace.md"
+                "file": "T1AY2425/Homepage - T1 AY2425.md"
               }
             }
           },
@@ -193,8 +170,8 @@
   },
   "active": "596d328c4af40b96",
   "lastOpenFiles": [
-    "T1AY2425/Week 1/images/Screenshot_2024-08-27_at_7.46.48_PM.png",
     "T1AY2425/Week 1/Setting up your Google Colab Workspace.md",
+    "T1AY2425/Week 1/images/Screenshot_2024-08-27_at_7.46.48_PM.png",
     "T1AY2425/Week 1/images/Screenshot_2024-08-27_at_7.48.07_PM.png",
     "README.md",
     "T1AY2425/Homepage - T1 AY2425.md",
