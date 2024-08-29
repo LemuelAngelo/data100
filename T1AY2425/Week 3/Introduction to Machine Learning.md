@@ -1,3 +1,5 @@
+
+
 # Introduction to Machine Learning
 
 > Lectures by Jazzie R. Jao, MSc | jazzie.jao@dlsu.edu.ph 
@@ -15,7 +17,7 @@ Arthur Samuel, an early American leader in the field of computer gaming and arti
 > A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks T, as measured by P, improves with experience E.
 
 - What this essentially means is that a machine can be considered to learn if it is able to gather experience by doing a certain task and improve its performance in doing the similar tasks in the future. When we talk about past experience, it means past data related to the task. This data is an input to the machine from some source.
-- For a thorough discussion on the history of machine learning, kindly read this.
+- For a extensive discussion on the history of machine learning, kindly read this.
 - A computer program which learns from experience is called a machine learning program or simply a learning program.
 
 **Examples**
@@ -32,3 +34,27 @@ Arthur Samuel, an early American leader in the field of computer gaming and arti
     - Task T: Playing chess
     - Performance measure P: Percent of games won against opponent
     - Training experience E: Playing practice games against itself
+
+![](images/Screenshot%202024-08-28%20at%205.59.14%20PM.png)
+
+![](../../Screenshot%202024-08-28%20at%206.01.06%20PM.png)
+
+
+# General Steps Involved
+
+It is important to note that the general steps in machine learning mentioned below is not STRICT. In real-life situation, these steps typically involve iterative processes and are not one-way (usually a cycle and non linear). We aim to introduce these steps as a building block of understanding how machine learning is usually conducted since we assume that the students are relatively new to the topic.
+
+1. Preparing to Model
+2. Learning
+3. Performance Evaluation
+4. Performance Improvement
+
+## Preparing to Model
+
+Note: you might find that this section is kind of similar to EDA.
+
+### Understanding the Context of your Dataset
+
+The dataset given below is of table format, a structured data. In reality, unstructured data also exist which creates more complex analysis. For the sake of explaining the concept, we will start with a simple case of structured dataset like a table. Read this resource for more discussion on different types of data that you might encounter.
+
+A data set is a collection of related information or records. For example we may have a data set on students in which each record consists of information about a specific student.
