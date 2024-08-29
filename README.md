@@ -2,3 +2,4 @@
 > Lectures by Jazzie R. Jao | jazzie.jao@dlsu.edu.ph
 
 -  [[Homepage - T1 AY2425]]
+- 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "T1AY2425/Homepage - T1 AY2425.md"
               }
             }
           }
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +162,8 @@
   },
   "active": "596d328c4af40b96",
   "lastOpenFiles": [
-    "T1AY2425/Homepage - T1 AY2425.md",
     "README.md",
+    "T1AY2425/Homepage - T1 AY2425.md",
     "here.md",
     "T1AY2425",
     "T1AY2425/Week 1/Setting up your Google Colab Workspace.md",
