@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "T1AY2425/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "T1AY2425/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "T1AY2425/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "T1AY2425/README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8da93061fc5b9bf",
+  "active": "1c580c7ac0b93316",
   "lastOpenFiles": [
-    "Week 1/Setting up your Google Colab Workspace.md",
-    "Week 2",
-    "Week 1",
-    "README.md"
+    "T1AY2425",
+    "T1AY2425/Week 1/Setting up your Google Colab Workspace.md",
+    "T1AY2425/README.md",
+    "T1AY2425/Week 2",
+    "T1AY2425/Week 1"
   ]
 }
