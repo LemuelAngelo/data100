@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Machine Learning.md",
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Machine Learning.md",
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Machine Learning.md",
+                "file": "T1AY2425/Homepage - T1 AY2425.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Machine Learning.md"
+                "file": "T1AY2425/Homepage - T1 AY2425.md"
               }
             }
           },
@@ -187,13 +187,14 @@
   },
   "active": "596d328c4af40b96",
   "lastOpenFiles": [
+    "README.md",
+    "T1AY2425/Week 3/Introduction to Machine Learning.md",
+    "T1AY2425/Week 3",
     "T1AY2425/Week 1/Setting up your Google Colab Workspace.md",
-    "Introduction to Machine Learning.md",
     "T1AY2425/Homepage - T1 AY2425.md",
     "T1AY2425/Week 1/Introduction to Git (with Github Integration).md",
     "T1AY2425/Week 1/images/Screenshot_2024-08-27_at_7.46.48_PM.png",
     "T1AY2425/Week 1/images/Screenshot_2024-08-27_at_7.48.07_PM.png",
-    "README.md",
     "here.md",
     "T1AY2425",
     "T1AY2425/Week 2",
