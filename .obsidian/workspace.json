@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T1AY2425/Homepage - T1 AY2425.md",
+                "file": "T1AY2425/Week 1/Python Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T1AY2425/Homepage - T1 AY2425.md",
+                "file": "T1AY2425/Week 1/Introduction to Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T1AY2425/Homepage - T1 AY2425.md",
+                "file": "T1AY2425/Week 1/Python Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "T1AY2425/Homepage - T1 AY2425.md",
+                "file": "T1AY2425/Week 1/Python Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T1AY2425/Homepage - T1 AY2425.md"
+                "file": "T1AY2425/Week 1/Python Basics.md"
               }
             }
           },
@@ -185,13 +184,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "596d328c4af40b96",
+  "active": "b8da93061fc5b9bf",
   "lastOpenFiles": [
+    "T1AY2425/Homepage - T1 AY2425.md",
+    "T1AY2425/Week 1/Python Basics.md",
+    "T1AY2425/Week 1/Introduction to Data Science.md",
+    "T1AY2425/Week 1/Python for Data Science.md",
+    "T1AY2425/Week 1/Introduction to Python.md",
     "README.md",
     "T1AY2425/Week 3/Introduction to Machine Learning.md",
     "T1AY2425/Week 3",
     "T1AY2425/Week 1/Setting up your Google Colab Workspace.md",
-    "T1AY2425/Homepage - T1 AY2425.md",
     "T1AY2425/Week 1/Introduction to Git (with Github Integration).md",
     "T1AY2425/Week 1/images/Screenshot_2024-08-27_at_7.46.48_PM.png",
     "T1AY2425/Week 1/images/Screenshot_2024-08-27_at_7.48.07_PM.png",
