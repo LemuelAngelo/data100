@@ -1,4 +1,4 @@
-# Principles of Data Science
+# T1 AY2425 | Principles of Data Science 
 > a.k.a. “DATA100”. Lectures by Jazzie R. Jao, MSc
 
 |**Class Location**|GK304B|

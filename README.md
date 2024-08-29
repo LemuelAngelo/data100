@@ -1,2 +1,2 @@
-# Welcome to the repository of Principles in Data Science!
+# Welcome to the repository of DATA100
 > Lectures by Jazzie R. Jao | jazzie.jao@dlsu.edu.ph
