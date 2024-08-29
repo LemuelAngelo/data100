@@ -110,7 +110,7 @@ Broadly categorized into two: quantitative and qualitative.
 ### Exploring the Dataset
 
 Consider the following dataset taken from the UCL repository, named Auto MPG dataset.
-![](../../Screenshot%202024-08-28%20at%205.34.20%20PM.png)
+![](images/Screenshot%202024-08-28%20at%205.34.20%20PM.png)
 
 - What does each column mean?
     - You might need to create a summary detailing the description of each column, the measurement unit (if applicable), if it’s qualitative or quantitative, etc.
@@ -197,7 +197,7 @@ Let us take one of the structures of the learning process, irrespective of the f
 - Can you search other machine learning workflows in the literature? How is it different from what we discussed above?
 - Can you give more examples of nominal, ordinal, interval, and ratio data?
 
-![](../../Screenshot%202024-08-28%20at%206.26.33%20PM.png)
+![](images/Screenshot%202024-08-28%20at%206.26.33%20PM.png)
 
 # # References
 
