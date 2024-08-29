@@ -35,9 +35,9 @@ Arthur Samuel, an early American leader in the field of computer gaming and arti
     - Performance measure P: Percent of games won against opponent
     - Training experience E: Playing practice games against itself
 
-![](images/Screenshot%202024-08-28%20at%205.59.14%20PM.png)
+![500](images/Screenshot%202024-08-28%20at%205.59.14%20PM.png)
 
-![](images/Screenshot%202024-08-28%20at%206.01.06%20PM.png)
+![500](images/Screenshot%202024-08-28%20at%206.01.06%20PM.png | 500)
 
 
 # General Steps Involved
@@ -58,3 +58,4 @@ Note: you might find that this section is kind of similar to EDA.
 The dataset given below is of table format, a structured data. In reality, unstructured data also exist which creates more complex analysis. For the sake of explaining the concept, we will start with a simple case of structured dataset like a table. Read this resource for more discussion on different types of data that you might encounter.
 
 A data set is a collection of related information or records. For example we may have a data set on students in which each record consists of information about a specific student.
+
