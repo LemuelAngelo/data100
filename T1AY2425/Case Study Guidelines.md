@@ -1,5 +1,8 @@
 # Case Study Guidelines
 
+> Guidelines inspired by the ALTDSI of DLSU Manila.
+> There may be slight modifications due to the varying profile of the class.
+
 To help you be more aware of where data science can be applied in the real world, this case study presentation will allow you to look into how people have been using data from various sources to improve their businesses, their decision-making process and/or their customers’ experience. Your task is to choose one below in the list of an existing data project and address several items to be introduced in the next section.
 
 # General Tasks
