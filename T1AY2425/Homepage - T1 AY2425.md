@@ -35,7 +35,7 @@
 | Midterm Exam                       | This is a timed online midterm exam, done on Canvas (six hours, locked questions.)                       | 10/21/2024 to   <br>10/25/2024 | 80      | N/A         |
 | Final Paper Report                 | This is a by-group activity that requires an online presentation. Submission is done through Canvas bin. | 12/02/2024                     | 100     | TBA         |
 | Case Study Report and Presentation | This is a by-group activity. Submission is done through Canvas bin.                                      | 11/04/2024                     |         | TBA         |
-| Homework 1                         | Data Visualization and Exploratory Data Analysis                                                         |                                |         | N/A         |
+| Homework 1                         | Python Basics                                                                                            |                                |         | N/A         |
 | Homework 2                         | Case Study Proposal                                                                                      | 09/27/2024                     | 10      | N/A         |
 | Homework 3                         | Introduction to Machine Learning, Python Toolbox for Machine Learning                                    |                                |         | N/A         |
 | Homework 4                         | Supervised and Unsupervised Learning                                                                     |                                |         | N/A         |
