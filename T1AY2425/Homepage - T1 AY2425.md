@@ -54,6 +54,7 @@
 	- Students are expected to be responsible in taking note of the tasks during absence, and submit it accordingly, on time.
 - **Deadlines Policy**
 	- Say `x` is a date set to be the deadline of task `T`. However due to unforeseen circumstances, classes are to be suspended on the day of `x`. Now, consider the following cases:
-		- CASE 1: If `x+n`, where the `+` operator is used to denote count of days from `x` such that it will be `n` days after the day `x`, satisfies the condition that `x+1` and `x+2` is weekend, then the new deadline is `x+3`
-			- TLDR; this just means that case 1 is saying what if the deadline is Friday but suspended, therefore the new deadline is Monday. lol
-	
+		- **CASE 1**: If `x+n`, where the `+` operator is used to denote count of days from `x` such that it will be `n` days after the day `x`, satisfies the condition that `x+1` and `x+2` is weekend, then the new deadline is `x+3`
+			- TLDR; this just means that case 1 is saying what if the deadline is Friday but suspended, therefore the new deadline is Monday. 
+		- **CASE 2**: If `x+n`, where the `+` operator is used to denote count of days from `x` such that it will be `n` days after the day `x`, satisfies the condition that `x+1` and `x+2` is weekend, and `x+3` is also suspended, then the new deadline is `x+4`. If `x+4` is also suspended, then `x+5` is the new deadline, and so on.
+		- **CASE 3**: If `x+n`, where the `+` operator is used to denote count of days from `x` such that it will be `n` days after the day `x`, satisfies the condition that `x+1` is a working weekday (meaning, not suspended), then `x+1` is the new deadline.
