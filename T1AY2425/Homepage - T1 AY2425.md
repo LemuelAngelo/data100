@@ -20,8 +20,8 @@
 | Time Series Analysis  <br>Machine Learning Mathematical Preliminaries                                                         | 09/30/2024  <br>10/04/2024 | 5        |                    |                       |                                                                               |
 | Machine Learning Mathematical Preliminaries                                                                                   | 10/07/2024  <br>10/11/2024 | 6        |                    |                       |                                                                               |
 | Introduction to Machine Learning  <br>  <br>Unsupervised and Supervised Learning                                              | 10/14/2024  <br>10/18/2024 | 7        |                    |                       |                                                                               |
-| Reading and Hands On Materials for the topic “Unsupervised and Supervised Learning” (not graded)                              | 10/21/2024  <br>10/25/2024 | 8        |                    |                       |                                                                               |
-| Unsupervised and Supervised Learning                                                                                          | 10/28/2024  <br>11/01/2024 | 9        |                    |                       | ✅ Independent Learning Week <br>✅ NO CLASSES November 1, November 2 (Holiday) |
+| Unsupervised and Supervised Learning                                                                                          | 10/21/2024  <br>10/25/2024 | 8        |                    |                       | ⭐️ Midterms Exam (Wednesday)                                                  |
+| Reading and Hands On Materials for the topic “Unsupervised and Supervised Learning” (not graded)                              | 10/28/2024  <br>11/01/2024 | 9        |                    |                       | ✅ Independent Learning Week <br>✅ NO CLASSES November 1, November 2 (Holiday) |
 | Unsupervised and Supervised Learning                                                                                          | 11/04/2024  <br>11/08/2024 | 10       |                    |                       |                                                                               |
 | Unsupervised and Supervised Learning                                                                                          | 11/11/2024  <br>11/15/2024 | 11       |                    |                       |                                                                               |
 | Unsupervised and Supervised Learning                                                                                          | 11/18/2024  <br>11/22/2024 | 12       |                    |                       |                                                                               |
@@ -30,19 +30,19 @@
 
 # **List of Graded Tasks**
 
-| **Name**                           | **Remarks**                                                                                              | **Due Date**                      | **HPS** | **Rubrics** |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------- | ------- | ----------- |
-| Midterm Exam                       | This is a timed online midterm exam, done on Canvas.                                                     | Commencing during Midterms Week   | 80      | N/A         |
-| Final Paper Report                 | This is a by-group activity that requires an online presentation. Submission is done through Canvas bin. | Submission is due on finals week. | 100     |             |
-| Case Study Report and Presentation | This is a by-group activity. Submission is done through Canvas bin.                                      |                                   |         |             |
-| Homework 1                         | Python Basics, Python for Data Science                                                                   |                                   |         |             |
-| Homework 2                         | Case Study Proposal                                                                                      | 09/27/2024                        | 10      | N/A         |
-| Homework 3                         | Introduction to Machine Learning, Python Toolbox for Machine Learning                                    |                                   |         |             |
-| Homework 4                         |                                                                                                          |                                   |         |             |
-| Seatwork 1                         | Data Visualization, EDA                                                                                  | 09/20/2024                        | 50      | N/A         |
-| Seatwork 2                         | EDA, Time Series, Geospatial Data Science                                                                |                                   |         |             |
-| Seatwork 3                         |                                                                                                          |                                   |         |             |
-| Seatwork 4                         |                                                                                                          |                                   |         |             |
+| **Name**                           | **Remarks**                                                                                              | **Due Date**                             | **HPS** | **Rubrics** |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------- | ----------- |
+| Midterm Exam                       | This is a timed online midterm exam, done on Canvas.                                                     | Commencing during Midterms Week (Week 8) | 80      | N/A         |
+| Final Paper Report                 | This is a by-group activity that requires an online presentation. Submission is done through Canvas bin. | Submission is due on finals week.        | 100     |             |
+| Case Study Report and Presentation | This is a by-group activity. Submission is done through Canvas bin.                                      |                                          |         |             |
+| Homework 1                         | Python Basics, Python for Data Science                                                                   |                                          |         |             |
+| Homework 2                         | Case Study Proposal                                                                                      | 09/27/2024                               | 10      | N/A         |
+| Homework 3                         | Introduction to Machine Learning, Python Toolbox for Machine Learning                                    |                                          |         |             |
+| Homework 4                         |                                                                                                          |                                          |         |             |
+| Seatwork 1                         | Data Visualization, EDA                                                                                  | 09/20/2024                               | 50      | N/A         |
+| Seatwork 2                         | EDA, Time Series, Geospatial Data Science                                                                |                                          |         |             |
+| Seatwork 3                         |                                                                                                          |                                          |         |             |
+| Seatwork 4                         |                                                                                                          |                                          |         |             |
 
 # Class Policies
 
