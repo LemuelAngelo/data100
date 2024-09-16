@@ -52,5 +52,8 @@
 	- Not part of the total grade.
 	- Tasks missed during absence should be submitted and consideration will be given for those with APPROVED absence from the vice dean only.
 	- Students are expected to be responsible in taking note of the tasks during absence, and submit it accordingly, on time.
-- **Deadline Policy**
-	- 
+- **Deadlines Policy**
+	- Say `x` is a date set to be the deadline of task `T`. However due to unforeseen circumstances, classes are to be suspended on the day of `x`. Now, consider the following cases:
+		- CASE 1: If `x+n`, where the `+` operator is used to denote count of days from `x` such that it will be `n` days after the day `x`, satisfies the condition that `x+1` and `x+2` is weekend, then the new deadline is `x+3`
+			- TLDR; this just means that case 1 is saying what if the deadline is Friday but suspended, therefore the new deadline is Monday. lol
+	
