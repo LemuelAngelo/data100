@@ -40,7 +40,7 @@
 | Homework 3                         | Introduction to Machine Learning, Python Toolbox for Machine Learning                                    |                                |         | N/A         |
 | Homework 4                         | Supervised and Unsupervised Learning                                                                     |                                |         | N/A         |
 | Seatwork 1                         | Data Visualization                                                                                       | 09/20/2024                     | 50      | N/A         |
-| Seatwork 2                         | EDA, Time Series                                                                                         | 09/27/2024                     | 50      | N/A         |
+| Seatwork 2                         | EDA                                                                                                      | 09/27/2024                     | 50      | N/A         |
 | Seatwork 3                         | Geospatial Data Science                                                                                  | 10/04/2024                     | 50      | N/A         |
 | Seatwork 4                         | Unsupervised and Supervised Learning                                                                     |                                |         | N/A         |
 
