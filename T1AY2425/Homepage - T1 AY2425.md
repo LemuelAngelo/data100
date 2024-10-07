@@ -17,7 +17,7 @@
 | Introduction to Python and Jupyter  <br>Introduction to Data Science<br>Python Basics  <br>Python for Data Science | 09/09/2024  <br>09/13/2024 | 2        |                                                                               |
 | Python Basics  <br>Python for Data Science<br>Data Collection<br>Data Visualization                                | 09/16/2024  <br>09/20/2024 | 3        | Moved the Seatwork 1 for next week instead.                                   |
 | Data Visualization  <br>                                                                                           | 09/23/2024  <br>09/27/2024 | 4        | ⭐️ SEATWORK 1 on 09/23/2024                                                   |
-| Exploratory Data Analysis  <br>                                                                                    | 09/30/2024  <br>10/04/2024 | 5        |                                                                               |
+| Exploratory Data Analysis  <br>                                                                                    | 09/30/2024  <br>10/04/2024 | 5        | ⭐️ SEATWORK 2 on 10/04/2024                                                   |
 | Geospatial Data Science<br>Time Series Analysis                                                                    | 10/07/2024  <br>10/11/2024 | 6        |                                                                               |
 | Machine Learning Mathematical Preliminaries                                                                        | 10/14/2024  <br>10/18/2024 | 7        |                                                                               |
 | Introduction to Machine Learning  <br>Unsupervised and Supervised Learning                                         | 10/21/2024  <br>10/25/2024 | 8        | ⭐️ Midterms Exam (Wednesday)                                                  |
@@ -27,7 +27,12 @@
 | Unsupervised and Supervised Learning                                                                               | 11/18/2024  <br>11/22/2024 | 12       |                                                                               |
 | Final Project Presentation (2 sessions)                                                                            | 11/25/2024  <br>11/29/2024 | 13       |                                                                               |
 
-
+# Proposal Sheet for Final Paper
+- Proposed Title
+- Three Research Questions
+- Methodology (to answer the research question)
+- Dataset used
+- Scope and Delimitation
 
 # **List of Graded Tasks**
 
