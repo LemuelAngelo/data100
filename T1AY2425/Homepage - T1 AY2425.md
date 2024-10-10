@@ -20,10 +20,10 @@
 | Exploratory Data Analysis  <br>                                                                                    | 09/30/2024  <br>10/04/2024 | 5        | ⭐️ SEATWORK 2 on 10/04/2024                                                   |
 | Geospatial Data Science<br>Time Series Analysis                                                                    | 10/07/2024  <br>10/11/2024 | 6        |                                                                               |
 | Machine Learning Mathematical Preliminaries<br>Introduction to Machine Learning                                    | 10/14/2024  <br>10/18/2024 | 7        |                                                                               |
-| Clustering Algorithms                                                                                              | 10/21/2024  <br>10/25/2024 | 8        | ⭐️ Midterms Exam (Open Whole Week, six hours)                                 |
+| Clustering Algorithms and Performance Metrics                                                                      | 10/21/2024  <br>10/25/2024 | 8        | ⭐️ Midterms Exam (Open Whole Week, six hours)                                 |
 | Reading and Hands On Materials for the topic “Unsupervised and Supervised Learning” (not graded)                   | 10/28/2024  <br>11/01/2024 | 9        | ✅ Independent Learning Week <br>✅ NO CLASSES November 1, November 2 (Holiday) |
-| Computer Vision, Time Series Forecasting                                                                           | 11/04/2024  <br>11/08/2024 | 10       |                                                                               |
-| Data Science Spotlight                                                                                             | 11/11/2024  <br>11/15/2024 | 11       |                                                                               |
+| Basic Computer Vision Task using CIFAR10 Dataset and Neural Networks                                               | 11/04/2024  <br>11/08/2024 | 10       |                                                                               |
+| Data Science Spotlight and Case Study Presentation                                                                 | 11/11/2024  <br>11/15/2024 | 11       |                                                                               |
 | Consultation Week of Final Paper                                                                                   | 11/18/2024  <br>11/22/2024 | 12       |                                                                               |
 | Final Project Presentation (2 sessions)                                                                            | 11/25/2024  <br>11/29/2024 | 13       |                                                                               |
 
@@ -40,15 +40,34 @@
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------ | --------- | ----------- |
 | Midterm Exam                                                         | This is a timed online midterm exam, done on Canvas (six hours, locked questions.)                       | 10/21/2024 to   <br>10/25/2024 | 80        | N/A         |
 | Final Paper:<br>(1) Proposal Sheet<br>(2) Report<br>(3) Presentation | This is a by-group activity that requires an online presentation. Submission is done through Canvas bin. | 12/02/2024                     | (5,85,10) | TBA         |
-| Case Study Report and Presentation                                   | This is a by-group activity. Submission is done through Canvas bin.                                      | 11/04/2024                     |           | TBA         |
+| Case Study (1) Report<br>(2) Presentation                            | This is a by-group activity. Submission is done through Canvas bin.                                      | (11/08/2024, 11/11/2024)       | (80,20)   | TBA         |
 | Homework 1                                                           | This is a by-group activity. Python Basics                                                               | 09/23/2024, 11:59 PM           | 60        | N/A         |
 | Homework 2                                                           | Case Study Proposal                                                                                      | 09/27/2024                     | 10        | N/A         |
-| Homework 3                                                           | Introduction to Machine Learning, Python Toolbox for Machine Learning                                    |                                |           | N/A         |
-| Homework 4                                                           | Data Science Spotlight                                                                                   |                                |           | N/A         |
+| Homework 3                                                           | Data Science Spotlight                                                                                   | 11/08/2024                     | 50        | N/A         |
+| Homework 4                                                           | Compilation Assessments from Week 1 to Week 6 (until Time Series)                                        | 11/22/2024                     | 100       | N/A         |
 | Seatwork 1                                                           | Data Visualization                                                                                       | 09/20/2024                     | 50        | N/A         |
 | Seatwork 2                                                           | EDA (group activity)                                                                                     | 10/05/2024, 11:59 PM           | 50        | N/A         |
 | Seatwork 3                                                           | Time Series Analysis                                                                                     | 10/11/2024                     | 10        | N/A         |
-| Seatwork 4                                                           | Unsupervised and Supervised Learning                                                                     | 10/25/2024                     | 50        | N/A         |
+| Seatwork 4                                                           | Python for Machine Learning: Changing Parameters and Implication in Model Performance                    | 10/25/2024                     | 50        | N/A         |
+| Reflection Paper                                                     | Summary Sheet                                                                                            | 11/                            |           |             |
+
+# Reflection Paper Summary Sheet Format
+
+1. **Global Climate Finance Engagement:**
+
+- How does the climate-related financial policy index (CRFPI) contribute to understanding global climate finance strategies?
+
+2. **Stock Market Analysis + Prediction Using LSTM:**
+
+- How can the volatility of the stock market impact the reliability of machine learning models?
+
+3. **Starbucks Offer Effectiveness:**
+
+- What role does exploratory data analysis (EDA) play in uncovering insights from customer engagement data?
+
+4. **CO2 Emissions from Vehicles in Canada:**
+
+- Why is data analysis essential in understanding environmental impacts, such as vehicle emissions?
 
 # Class Policies
 
