@@ -47,7 +47,7 @@
 | Homework 4                                                           | Supervised and Unsupervised Learning                                                                     |                                |           | N/A         |
 | Seatwork 1                                                           | Data Visualization                                                                                       | 09/20/2024                     | 50        | N/A         |
 | Seatwork 2                                                           | EDA (group activity)                                                                                     | 10/05/2024, 11:59 PM           | 50        | N/A         |
-| Seatwork 3                                                           | Time Series Analysis                                                                                     | 10/11/2024                     | 50        | N/A         |
+| Seatwork 3                                                           | Time Series Analysis                                                                                     | 10/11/2024                     | 10        | N/A         |
 | Seatwork 4                                                           | Unsupervised and Supervised Learning                                                                     | 10/25/2024                     | 50        | N/A         |
 
 # Class Policies
