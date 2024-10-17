@@ -49,7 +49,7 @@
 | Seatwork 2                                                           | EDA (group activity)                                                                                     | 10/05/2024, 11:59 PM           | 50        | N/A         |
 | Seatwork 3                                                           | Time Series Analysis                                                                                     | 10/11/2024                     | 10        | N/A         |
 | Seatwork 4                                                           | Python for Machine Learning: Changing Parameters and Implication in Model Performance                    | 10/25/2024                     | 50        | N/A         |
-| Reflection Paper                                                     | Summary Sheet                                                                                            | 11/                            |           |             |
+| Reflection Paper                                                     | Summary Sheet                                                                                            | 11/18/2024                     | 40        | N/A         |
 
 # Reflection Paper Summary Sheet Format
 
